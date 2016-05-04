@@ -1,4 +1,4 @@
-package tk.gjveron.seriousapps.wearonemini;
+package tk.seriousapps.peekimage;
 
 import org.junit.Test;
 
